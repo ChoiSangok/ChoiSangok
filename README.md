@@ -9,6 +9,9 @@ Hi, I'm SangOk.
 <a href="https://www.instagram.com/sang_o_k/?hl=ko">
   <img align="left" alt="Sangok Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://sang-okki.tistory.com/">
+  <img align="left" alt="Sangok blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blog.svg" />
+</a>
 
 <br/>
 <br/>
