@@ -1,8 +1,6 @@
 ### Hi there, I'm [SangOk!](https://github.com/ChoiSangok) 👋
 <br />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic" alt="iampawan" /> </p>
-
 Hi, I'm SangOk.
 
 <a href="https://github.com/ChoiSangok">
