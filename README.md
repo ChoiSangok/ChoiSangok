@@ -3,11 +3,10 @@
 
 Hi, I'm SangOk.
 
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/ChoiSangok)]https://github.com/ChoiSangok)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sang-okki.tistory.com/)](https://sang-okki.tistory.com/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sang_o_k/?hl=ko)](https://www.instagram.com/data.scientist/) 
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tkddhr12345@gmail.com)](mailto:tkddhr12345@gmail.com)
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tkddhr12345@naver.com)](mailto:tkddhr12345@naver.com)
-  
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sang_o_k/?hl=ko)]
 
 <br/>
 <br/>
