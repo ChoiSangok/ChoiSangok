@@ -1,9 +1,14 @@
 ### Hi there, I'm [SangOk!](https://github.com/ChoiSangok) 👋
-
-<br />
 <br />
 
 Hi, I'm SangOk.
+
+<a href="https://github.com/ChoiSangok">
+  <img align="left" alt="Sangok Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/sang_o_k/?hl=ko">
+  <img align="left" alt="Sangok Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 
 **Languages and Tools:**  
 <div float:left>
