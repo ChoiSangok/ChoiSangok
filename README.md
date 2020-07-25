@@ -3,15 +3,11 @@
 
 Hi, I'm SangOk.
 
-<a href="https://github.com/ChoiSangok">
-  <img align="left" alt="Sangok Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/sang_o_k/?hl=ko">
-  <img align="left" alt="Sangok Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://sang-okki.tistory.com/">
-  <img align="left" alt="Sangok blog" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/blog.svg" />
-</a>
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://github.com/ChoiSangok)]https://github.com/ChoiSangok)
+
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tkddhr12345@naver.com)](mailto:tkddhr12345@naver.com)
+  
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sang_o_k/?hl=ko)]
 
 <br/>
 <br/>
