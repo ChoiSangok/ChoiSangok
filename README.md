@@ -11,7 +11,7 @@ Hi, I'm SangOk.
 <br/>
 <br/>
 
-## MBC Project
+## SANGOK Project
 <div align=left>
   <table>
     <thead>
