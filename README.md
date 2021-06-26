@@ -18,9 +18,9 @@ Hi, I'm SangOk.
       <th>Description</th>
     </thead>
     <tr>
+      <td>검색프로젝트</td>
       <td></td>
-      <td></td>
-      <td></td>
+      <td>Elasticsearch, Kibana, Node.js, NiFi, MySQL</td>
       <td>
       </td>
     </tr>
