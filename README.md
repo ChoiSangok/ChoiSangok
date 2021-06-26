@@ -21,7 +21,7 @@ Hi, I'm SangOk.
       <td>검색프로젝트</td>
       <td></td>
       <td>Elasticsearch, Kibana, Node.js, NiFi, MySQL</td>
-      <td>
+      <td>통합검색, 자동완성, 인기검색어, 연관검색어, 금칙어
       </td>
     </tr>
      <tr>
