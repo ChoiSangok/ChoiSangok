@@ -49,12 +49,6 @@ Hi, I'm SangOk.
 ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 
-<a href="https://github.com/ChoiSangok">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChoiSangok&theme=dark&hide_langs_below=1" />
-</a>
-<a href="https://github.com/ChoiSangok">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=ChoiSangok&show_icons=true&theme=dracula&line_height=27" alt="Sangok github stats"/>
-</a>
 
 <!--- 
   if you have forked this to use on your profile, 
