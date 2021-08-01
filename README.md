@@ -33,6 +33,9 @@ Hi, I'm SangOk. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?ur
   </table>
 </div>  
 
+## 활동이력
+KH 정보교육원 [NCS]UI/UX엔지니어링 및 응용SW 엔지니어링 양성과정 (2020.01~2020.09)
+2021 오픈소스 컨트리뷰션 아카데미 "Cracking Vue.js"팀 활동(2021.07~)
 
 ## Languages and Tools
 ![image](https://img.shields.io/badge/Elasticsearch-red?style=for-the-badge&logo=elasticsearch&logoColor=white)
