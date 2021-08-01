@@ -2,10 +2,7 @@
 <br />
 
 Hi, I'm SangOk. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/ChoiSangok)](https://hits.seeyoufarm.com)
-
-<ul>
-  <li>contect Me</li>]
-</ul>
+<br>
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://sang-okki.tistory.com/)](https://sang-okki.tistory.com/) 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/sang_o_k/?hl=ko)](https://www.instagram.com/sang_o_k/?hl=ko) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tkddhr12345@gmail.com)](mailto:tkddhr12345@gmail.com)
