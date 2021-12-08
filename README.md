@@ -10,28 +10,10 @@ Hi, I'm SangOk. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?ur
 ![my_video](https://user-images.githubusercontent.com/55127127/121795138-c3d28f00-cc48-11eb-86a5-69ab1be0a93e.gif)
 
 
-## SANGOK Project
-<div align=left>
-  <table>
-    <thead>
-      <th>Project name</th>
-      <th>URL</th>
-      <th>Stack</th>
-      <th>Description</th>
-    </thead>
-    <tr>
-      <td>검색프로젝트</td>
-      <td></td>
-      <td>Elasticsearch, Kibana, Node.js, NiFi, MySQL</td>
-      <td>통합검색, 자동완성, 인기검색어, 연관검색어, 금칙어
-      </td>
-    </tr>
-     <tr>
-     </tr>
-     <tr>
-    </tr>
-  </table>
-</div>  
+## Project
+<ul>
+  <li>검색프로젝트 - </li>
+</ul>
 
 ## 활동이력
 <ul>
