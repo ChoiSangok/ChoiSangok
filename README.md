@@ -17,12 +17,12 @@ Hi, I'm SangOk. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?ur
 
 ## 활동이력
 <ul>
-  <li>개발자(2020.11 ~ )</li>
+  <li>👨🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ(2020.11 ~ )</li>
   <li>KH 정보교육원 [NCS]UI/UX엔지니어링 및 응용SW 엔지니어링 양성과정 (2020.01~2020.09)</li>
   <li>2021 오픈소스 컨트리뷰션 아카데미 "Cracking Vue.js"팀 활동(2021.07~2021.11) </li>
 </ul>
 
-## Languages and Tools
+<!-- ## Languages and Tools
 ![image](https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white)
 ![image](https://img.shields.io/badge/kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
 ![image](https://img.shields.io/badge/logstash-005571?style=for-the-badge&logo=logstash&logoColor=white)
@@ -40,7 +40,7 @@ Hi, I'm SangOk. [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?ur
 <br>
 ![image](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![image](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![image](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![image](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) -->
 
 
 <!--- 
