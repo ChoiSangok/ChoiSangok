@@ -15,7 +15,7 @@
 <ul>
   <li>👨🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ(2020.11 ~ )</li>
   <li>2021 오픈소스 컨트리뷰션 아카데미 "Cracking Vue.js"팀 활동(2021.07~2021.11) </li>
-  <li>DDD KDKD SERVER - Backend (2023.06 ~ 2023.09) </li>
+  <li>DDD KDKD - Backend (2023.06 ~ 2023.09) </li>
 </ul>
 
 <!-- ## Languages and Tools
